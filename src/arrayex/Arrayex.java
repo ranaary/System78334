@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author ranaa
+ * @author ranaaryan
  */
 public class Arrayex {
 
